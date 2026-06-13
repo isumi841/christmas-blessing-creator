@@ -1,5 +1,3 @@
-README.md eke current Create React App content eka delete karala meka paste karanna.
-
 # 🎄 Christmas Blessing Creator
 
 A modern and interactive Christmas Blessing Creator built with React.js. Users can select Christmas themes, choose festive emojis, write personalized blessings, generate greeting cards, and download them as PNG images.
