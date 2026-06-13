@@ -113,11 +113,8 @@ npm run build
 
 ## 👩‍💻 Developer
 
-**Pulmi Vihansa**
+**Isumi Kumarasinghe**
 
-Undergraduate – BSc (Hons) Information Technology
-Specializing in Cyber Security
-Sri Lanka Institute of Information Technology (SLIIT)
 
 GitHub:
 [https://github.com/isumi841](https://github.com/isumi841)
@@ -126,15 +123,8 @@ GitHub:
 
 This project is created for educational and portfolio purposes.
 
----
+
 
 ✨ *Spread Joy, Love, and Christmas Blessings Around the World!* 🎄
 
-README update karala:
-
-```bash
-git add .
-git commit -m "Updated README"
-git push origin main
-```
 
